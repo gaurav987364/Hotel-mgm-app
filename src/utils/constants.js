@@ -1,0 +1,2 @@
+const MAGIC_NUMBER_PAGE_SIZE = 6;
+export default MAGIC_NUMBER_PAGE_SIZE;
