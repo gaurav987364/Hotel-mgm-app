@@ -1,8 +1,10 @@
-# React + Vite
+# Hotel-mgm-App
+![Screenshot_20-11-2024_183211_localhost](https://github.com/user-attachments/assets/ef1f0a33-1731-4fd9-a513-866b9e1e01f2)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+for run or live preview📱🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+download zip ➡️➡
+run npm install➡️
+npm run dev➡️
+goto:: https://localhost:5173
